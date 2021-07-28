@@ -16,13 +16,25 @@ p {
 .button {
     background-color: #E76F51;
 }
+span {
+    color: #E76F51;
+}
 
 /* HERO SECTION */
 .hero-section {
     background-color: #264653;
 }
 
-
+/* FEATURED SECTION */
+.grayscale {
+    filter: grayscale(100%);
+}
+hr {
+    margin: 0 auto;
+    border-bottom: 1px solid #E76F51 ;
+    width: 3.5rem;
+    
+}
 
 
 .dealer {

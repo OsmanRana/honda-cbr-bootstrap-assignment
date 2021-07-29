@@ -16,6 +16,10 @@ p {
 .button {
     background-color: #E76F51;
 }
+.button-outline {
+    border: 1px solid #E76F51 ;
+    color: #E76F51;
+}
 span {
     color: #E76F51;
 }

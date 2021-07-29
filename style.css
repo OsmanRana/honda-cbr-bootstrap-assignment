@@ -36,7 +36,22 @@ hr {
     
 }
 
+/* CLIENTS SECTION */
+.star {
+    
+    width: 1.5rem;
+}
 
+/* BONUS SECTIONS */
+
+/* Service Section */
+.hover:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: transform .5s ease-in-out;
+}
+
+/* Dealer Section */
 .dealer {
     background-image: url(images/dealer-banner.png);
     background-size: cover;

@@ -68,3 +68,11 @@ hr {
 .footer {
     background-color: #0B0D17;
 }
+
+/* MEDIA QUERY */
+ @media (max-width: 768px) {
+     .hover:hover {
+         transform: none;
+     }
+     
+ }

@@ -25,7 +25,7 @@ span {
 }
 
 /* HERO SECTION */
-.hero-section {
+.hero-section, .nav-manu {
     background-color: #264653;
 }
 
